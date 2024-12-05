@@ -1,5 +1,7 @@
 function Home() {
-  return <h1> Me ajuda no figma ai cara </h1>;
+  return (
+    <h1> Desculpa a reforma, estamos em transtornos, em breve novidades!!!</h1>
+  );
 }
 
 //exportando uma função padrão do arquivo
