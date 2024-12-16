@@ -1,6 +1,9 @@
 function Home() {
   return (
-    <h1> Desculpa a reforma, estamos em transtornos, em breve novidades!!!</h1>
+    <h1>
+      {" "}
+      Desculpa a reforma, estamos em transtornos, em breve novidades!!!!!
+    </h1>
   );
 }
 
